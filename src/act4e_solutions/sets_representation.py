@@ -1,4 +1,5 @@
 from typing import Any
+from .my_finite_set_representation import MyFiniteSetRepresentation
 
 import act4e_interfaces as I
 
